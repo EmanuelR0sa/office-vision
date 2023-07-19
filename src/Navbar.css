@@ -1,0 +1,66 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+.navContainer{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100vw;
+    height:   60px;
+    background: linear-gradient(90.27deg, #0892DF 0%, #9F25A2 100%);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.navMainContainer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 20px 5px ;
+}
+.navTitleContainer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.brandLogo{
+    height: 50px;
+    padding-right: 0;
+}
+
+
+.navTitle{
+    color: white;
+    padding-left: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navtext{ 
+    color: rgb(184, 184, 184);
+    padding-left: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navtext a{ 
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(184, 184, 184);
+}
+
+.navIconsContainer{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.plusIcon, .dowloadIcon{
+    height: 30px;
+}
+.dowloadIcon{
+    padding-right: 30px;
+}
+
+.plusIcon:hover, .dowloadIcon:hover{
+    cursor: pointer;
+}

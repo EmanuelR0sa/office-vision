@@ -1,0 +1,110 @@
+[
+    {
+        "title": "Inspiration Image",
+        "icon": "images/inspirationLogo.svg",
+        "arrow": "images/ArrowDownLogo.svg",
+        "childrens": [
+            {
+                "id": "i1",
+                "caption": "Home Office Dark",
+                "item": "images/HomeOfficeDark.svg"
+            },
+            {
+                "id": "i2",
+                "caption": "Home Office Japandi",
+                "item": "images/HomeOfficeJapandi.svg"
+            }
+        ]
+    },
+    {
+        "title": "Colour Palette",
+        "icon": "images/Colourlogo.svg",
+        "arrow": "images/ArrowDownLogo.svg",
+        "childrens": [
+            {
+                "id": "i3",
+                "caption": "Colours Dark Theme",
+                "item": "images/Dark Theme.svg"
+            },
+            {
+                "id": "i4",
+                "caption": "Colours Japandi Theme",
+                "item": "images/Japandi Theme.svg"
+            }
+        ]
+    },
+    {
+        "title": "Furniture",
+        "icon": "images/funiturelogo.svg",
+        "arrow": "images/ArrowDownLogo.svg",
+        "childrens": [
+            {
+                "id": "i5",
+                "caption": "white Chair",
+                "item": "images/white Chair.svg"
+            },
+            {
+                "id": "i6",
+                "caption": "Black Chair",
+                "item": "images/Black Chair.svg"
+            },
+            {
+                "id": "i7",
+                "caption": "white Desk",
+                "item": "images/DESK WHITE.svg"
+            },
+            {
+                "id": "i8",
+                "caption": "Wood Desk",
+                "item": "images/DESK WOOD.svg"
+            },
+            {
+                "id": "i9",
+                "caption": "white Drawer",
+                "item": "images/drawer unit white.svg"
+            },
+            {
+                "id": "i10",
+                "caption": "Grey Drawer",
+                "item": "images/drawer unit grey.svg"
+            }
+        ]
+    },
+    {
+        "title": "Decoration",
+        "icon": "images/Decorationlogo.svg",
+        "arrow": "images/ArrowDownLogo.svg",
+        "childrens": [
+            {
+                "id": "i11",
+                "caption": "Bronze Light",
+                "item": "images/LIGHT BRONZE.svg"
+            },
+            {
+                "id": "i12",
+                "caption": "Black Light",
+                "item": "images/LIGHT BLACK.svg"
+            },
+            {
+                "id": "i13",
+                "caption": "Palm Tree",
+                "item": "images/Plant brown.svg"
+            },
+            {
+                "id": "i14",
+                "caption": "Interior Plant",
+                "item": "images/Plant white.svg"
+            },
+            {
+                "id": "i15",
+                "caption": "white Board",
+                "item": "images//board white.svg"
+            },
+            {
+                "id": "i16",
+                "caption": "Black Board",
+                "item": "images/board black.svg"
+            }
+        ]
+    }
+]
